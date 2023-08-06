@@ -1,0 +1,72 @@
+body{
+    background-image: url(./Imágenes/photo-1512950050685-b1d4ae63d2df.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    color: black;
+}
+hr{
+    width: 30%;
+
+}
+#Mi{
+    margin-top: 30%;
+}
+.button{
+    color: black;
+        border: none;
+        cursor: pointer;
+        background-color: transparent;
+}
+.button2{
+float: right;
+}
+#cap2{
+    margin-left: 5%;
+}
+#Trabajos{
+    margin-top: 30%;
+}
+#Contacto2{
+    margin-top: 50%;
+    margin-right: 40%;
+}
+#Censo{
+    float: right;
+    margin-bottom: 30%;
+    margin-left: 10%;
+}
+
+
+
+button:hover .svg-wrapper {
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+button:hover svg {
+    transform: rotate(45deg);
+}
+h1{
+    margin-left: 44%;
+}
+
+p{
+    font: sans-serif;
+    font-size: 13px;
+}
+#Yo{
+    float: right;
+    height: 200px;
+    width: 200px;
+
+}
+#bob{
+    margin-right: 39%;
+    margin-top: 8%;
+}
+img{
+    float: right;
+    width: 300px;
+    height: 200px;
+}
